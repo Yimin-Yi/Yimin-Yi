@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yimin-Yi
 - 👀 I’m interested in economics and statisitcs.
-- 🌱 I’m currently learning about data science.
+- 🌱 I’m currently learning about causal inference.
 
 <!---
 Yimin-Yi/Yimin-Yi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
